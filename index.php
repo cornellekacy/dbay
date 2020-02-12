@@ -110,7 +110,7 @@ else{
 password
 ) 
     VALUES ('$username',
-'$password')";
+'password')";
     if(mysqli_query($link, $sql)){
       echo ' <div class="alert alert-danger">
   <strong>Dark Market!</strong> There was an error during Login, Please try again later
