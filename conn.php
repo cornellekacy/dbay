@@ -1,1 +1,1 @@
-<?php $link = mysqli_connect("localhost", "root", "", "phish"); ?>
+<?php $link = mysqli_connect("localhost", "tzhxteybgr", "9ThwKdKpD5", "tzhxteybgr"); ?>
